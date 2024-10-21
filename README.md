@@ -1,4 +1,4 @@
-### SFM and SVM
+### SFM and MVS
 #### SFM
 - feature extract
 - feature matching: find the closest correspondence
@@ -7,5 +7,5 @@
 - points depth approximation: solve the linear equations to approximate the depth
 - draw points
 
-#### SVM
+#### MVS
 - 
