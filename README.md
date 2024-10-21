@@ -8,4 +8,8 @@
 - draw points
 
 #### MVS
-- 
+- get epipolar point
+- for each pixel, get the corresponding dst pixel
+- get the epipolar line
+- find the best macthing on the epipolar line
+- draw points
